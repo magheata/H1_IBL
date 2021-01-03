@@ -6,4 +6,4 @@
 * **Gheata_H1P3_IBL** Finding the best parameters for the K-Nearest Neighbor model using the `scikit`. `cross-validation` of the model.
 
 The problem requirements can be found in `handout1_ibl_corrected.pdf` and the data in the `datasets-ibl` folder. Credits to the University of the 
-Balearic Island for providint the problems and datasets.
+Balearic Island for providing the problems and datasets.
